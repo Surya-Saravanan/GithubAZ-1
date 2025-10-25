@@ -23,3 +23,31 @@ git push origin main
 
 
 git pull
+
+//branch
+
+any new folder created in local and want to exposs tyo git 
+
+git init
+
+git add .   // to add all the files created under the repository
+
+git remote add origin https://github.com/Surya-Saravanan/GithubAZ-2.git
+
+git branch -a
+
+//create new branch in git
+
+git pull
+
+git commit -m ""
+
+git checkout newbranch1
+
+git push origin newbranch1
+
+git checkout main
+
+git diff newbranch1
+
+git merge main // to merge from branch to main
