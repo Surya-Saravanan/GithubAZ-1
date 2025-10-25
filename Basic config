@@ -20,3 +20,6 @@ git status
 git commit -m "newlu ahh"
 
 git push origin main 
+
+
+git pull
