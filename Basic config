@@ -1,3 +1,22 @@
 git config --global user.name "SS"
 
 git config --global user.email "svdhhj@gmail.com"
+
+
+Basic config
+
+git config --global user.name "SS"
+
+git config --global user.email ""svdhhj"
+
+File:
+
+create - > add -> commit -> push
+
+git add tecx.txt
+
+git status
+
+git commit -m "newlu ahh"
+
+git push origin main 
